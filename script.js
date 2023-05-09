@@ -73,6 +73,12 @@ let array3 = [
   ['Marty Stuart', ['Marty Janetty', ['Marty McFly'], 'Marty Robbins']]
 ];
 
+console.log(array1[2])
+
+console.log(array2[1][1])
+
+console.log(array3[1][1][1][0])
+
 /*
  * Prompt 2:
  *
