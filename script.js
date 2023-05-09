@@ -34,7 +34,7 @@ let number = 5
 console.log(number + 3)
 console.log(number - 3)
 console.log(number * 3)
-console.log(number / 3)
+console.log(number / 7)
 console.log(number % 2)
 
 /*
