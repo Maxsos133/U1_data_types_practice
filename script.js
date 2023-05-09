@@ -29,6 +29,14 @@ console.log(myAge, location, isStudent)
  *   - calculate the remainder of dividing your variable by 2
  */
 
+let number = 5
+
+console.log(number + 3)
+console.log(number - 3)
+console.log(number * 3)
+console.log(number / 3)
+console.log(number % 2)
+
 /*
  * Prompt 4:
  *
