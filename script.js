@@ -74,9 +74,7 @@ let array3 = [
 ];
 
 console.log(array1[2])
-
 console.log(array2[1][1])
-
 console.log(array3[1][1][1][0])
 
 /*
@@ -86,6 +84,8 @@ console.log(array3[1][1][1][0])
  */
 
 let array4 = ['a', 'b', 'c', 'd', 'e'];
+
+console.log(array4[array4.length -2])
 
 /*
  * Prompt 3:
