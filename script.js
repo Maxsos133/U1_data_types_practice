@@ -38,7 +38,7 @@ console.log(number / 3)
 console.log(number % 2)
 
 /*
- * Prompt 4:
+//  * Prompt 4:
  *
  * Create a variable called firstName and assign it to a string of your first
  * name. Create a variable called lastName and assign it to a string of your
@@ -48,7 +48,10 @@ console.log(number % 2)
  * and lastName variables.
  * Run a console.log that says 'hello my name is..." with your fullName. 
  */
-
+const firstName = `Maxim`
+const lastName = `Pavlenko`
+const fullName = firstName + " " + lastName
+console.log(`hello my name is ${fullName}`)
 
 /* Arrays */
 
